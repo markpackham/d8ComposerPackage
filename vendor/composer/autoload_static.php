@@ -84,6 +84,10 @@ class ComposerStaticInitDrupal8
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
         ),
+        'N' => 
+        array (
+            'Nubs\\RandomNameGenerator\\' => 25,
+        ),
         'M' => 
         array (
             'Masterminds\\' => 12,
@@ -306,6 +310,10 @@ class ComposerStaticInitDrupal8
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
+        ),
+        'Nubs\\RandomNameGenerator\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nubs/random-name-generator/src',
         ),
         'Masterminds\\' => 
         array (
