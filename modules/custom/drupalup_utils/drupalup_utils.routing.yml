@@ -1,0 +1,7 @@
+drupalup_utils.namelist:
+  path: '/namelist'
+  defaults:
+    _controller: '\Drupal\drupalup_utils\Controller\NameListController::content'
+    _title: 'Weird Characters'
+  requirements:
+    _permission: 'access content'
