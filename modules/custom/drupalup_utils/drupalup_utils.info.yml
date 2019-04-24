@@ -1,0 +1,4 @@
+name: Drupal Up Utils (uses wikimedia/composer-merge-plugin)
+description: Drupal Up Utils (Learning to add a composer.json with a package to this module)
+type: module
+core: 8.x

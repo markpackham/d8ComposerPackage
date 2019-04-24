@@ -1,0 +1,13 @@
+{
+    "name": "mark/drupalup_utils",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Mark Packham",
+            "email": "markpackham1@gmail.com"
+        }
+    ],
+    "require": {
+        "nubs/random-name-generator": "^2.1"
+    }
+}
