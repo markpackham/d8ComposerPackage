@@ -1,0 +1,6 @@
+name: Hook event dispatcher example
+description: Edit an article & you will see "Ex edited it" in the Title section, Hook Event Dispatcher module helps us do this
+type: module
+core: 8.x
+dependencies:
+  - drupal:hook_event_dispatcher

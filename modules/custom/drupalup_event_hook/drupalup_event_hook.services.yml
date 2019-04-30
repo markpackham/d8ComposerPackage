@@ -1,0 +1,5 @@
+services:
+  drupalup_event_hook.hook_form_alter:
+    class: Drupal\drupalup_event_hook\EventSubscriber\NodeArticleFormAlterEventSubscriber
+    tags:
+      - {name: 'event_subscriber'}
